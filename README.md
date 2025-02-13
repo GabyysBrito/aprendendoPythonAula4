@@ -1,4 +1,4 @@
-## 🐍 Anotações de Python
+# 🐍 Anotações de Python - Estrutura de Repetição e Início de Manipulação de Strings 
 
 Este repositório contém minhas anotações sobre conceitos fundamentais de Python. Aqui estão os tópicos abordados:
 
